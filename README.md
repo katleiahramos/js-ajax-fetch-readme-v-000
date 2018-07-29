@@ -1,4 +1,3 @@
-e2e4ad683f366f71fede8ed741c9a26487fc451d
 
 
 # JavaScript fetch()
